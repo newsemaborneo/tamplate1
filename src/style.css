@@ -6,6 +6,12 @@
   /* right: 50%; */
 }
 
+.carousel {
+  height: 100vh;
+
+  background-size: cover;
+}
+
 .navbar {
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
